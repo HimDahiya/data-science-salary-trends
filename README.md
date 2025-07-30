@@ -3,7 +3,20 @@
 *An end‑to‑end data‑storytelling project that turns raw salary records into actionable market intelligence for job‑seekers, hiring managers, and compensation analysts.*
 
 ---
+## Introduction
 
+Data science has evolved from a niche discipline into one of the most **strategic value-creators** inside modern organisations. From automated underwriting in finance to real-time demand forecasting in retail, companies that master data turn insight into competitive advantage—and they pay handsomely for the talent that enables it.  
+Yet the compensation landscape is anything but transparent. Salaries fluctuate by role (**Data Engineer vs. ML Engineer**), geography (**Austin vs. Zürich**), and even work setting (**remote vs. on-site**).
+
+This repository tackles that opacity head-on. By analysing four years of global, role-level salary records we answer the questions that matter to both **job-seekers** (*Where should I apply? How much am I worth?*) and **hiring managers** (*What does a market-competitive offer look like?*).
+
+If you are:
+
+* **A data professional** planning your next move—use our benchmarks to negotiate confidently.  
+* **A recruiter or compensation analyst**—leverage our category and geo breakdowns to craft attractive, equitable packages.  
+* **A researcher or student**—fork the code to test new hypotheses or enrich the dataset with skills and cost-of-living factors.
+
+Everything here is open-source, reproducible, and designed for quick exploration—because good decisions start with clear data.
 ---
 
 ## 📌 Executive Summary
