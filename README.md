@@ -136,13 +136,9 @@ $ streamlit run src/app.py
 
 ---
 
-## 7. Roadmap
 
--
 
----
-
-## 8. License
+## 7. License
 
 Project code is MIT‑licensed; dataset usage follows the original [Kaggle terms](https://www.kaggle.com).\
 Visual assets are CC‑BY‑4.0 unless noted otherwise.
@@ -152,7 +148,5 @@ Visual assets are CC‑BY‑4.0 unless noted otherwise.
 ## 9. Contact
 
 **Himanshu Dahiya**\
-[LinkedIn](https://www.linkedin.com/in/your‑profile) • [Email](mailto\:your.email@example.com) • [Portfolio](https://your‑domain.com)
-
 > *“Turning data into decisions.”*
 
